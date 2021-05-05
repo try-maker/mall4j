@@ -74,4 +74,8 @@ public class NoticeController {
 
         return ResponseEntity.ok(noticeService.pageNotice(page));
     }
+
+    /**
+     * test
+     */
 }
